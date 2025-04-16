@@ -19,7 +19,7 @@ const StyledHeroSection = styled.section`
 
   h1 {
     margin: 0 0 30px 4px;
-    color: var(--green);
+    color: var(--lime);
     font-family: var(--font-mono);
     font-size: clamp(var(--fz-sm), 5vw, var(--fz-md));
     font-weight: 400;
@@ -29,10 +29,11 @@ const StyledHeroSection = styled.section`
     }
   }
 
-  h3 {
+  h4 {
     margin-top: 5px;
-    color: var(--slate);
-    line-height: 0.9;
+    color: var(--lemon);
+    line-height: 0.75;
+    opacity: 0.4;
   }
 
   p {
@@ -59,33 +60,20 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Brittany Chiang.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const one = <h1>Hey, there! My name is</h1>;
+  const two = <h2 className="big-heading">Akbota Tursynkhan.</h2>;
+  const three = <h4 className="big-heading"> Shaping the web with code and care.</h4>;
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
-        </a>
-        .
+        I am a Software Engineer with a passion for building web applications and exploring new
+        technologies. My main focus today is enhancing my skills in React and Node.js, and I'm
+        excited to take on new challenges in the tech world.
       </p>
     </>
   );
-  const five = (
-    <a
-      className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
-      target="_blank"
-      rel="noreferrer">
-      Check out my course!
-    </a>
-  );
 
-  const items = [one, two, three, four, five];
+  const items = [one, two, three, four];
 
   return (
     <StyledHeroSection>

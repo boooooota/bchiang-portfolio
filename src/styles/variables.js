@@ -16,6 +16,14 @@ const variables = css`
     --green-tint: rgba(100, 255, 218, 0.1);
     --pink: #f57dff;
     --blue: #57cbff;
+    --lemon: #fbe564;
+    --lime: #54f000;
+    --plum: #c84b6d;
+    --plum-shadow: rgba(183, 59, 93, 0.7);
+    --light-plum: rgb(255, 94, 125, 1);
+    --light-lemon: rgb(255, 217, 0, 0.2);
+    --lemon-shadow: rgba(233, 207, 55, 0.6);
+    --lime-shadow: rgba(84, 240, 0, 0.6);
 
     --font-sans: 'Calibre', 'Inter', 'San Francisco', 'SF Pro Text', -apple-system, system-ui,
       sans-serif;

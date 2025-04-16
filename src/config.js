@@ -1,52 +1,43 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: 'akbota.aldungarova@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/boooooota',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://www.instagram.com/boooooooooooota',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      url: 'https://www.linkedin.com/in/arsenovna',
     },
   ],
 
   navLinks: [
     {
-      name: 'About',
+      name: 'ABOUT',
       url: '/#about',
     },
     {
-      name: 'Experience',
+      name: 'EXPERIENCE',
       url: '/#jobs',
     },
     {
-      name: 'Work',
-      url: '/#projects',
-    },
-    {
-      name: 'Contact',
+      name: 'CONTACT',
       url: '/#contact',
     },
   ],
 
   colors: {
     green: '#64ffda',
+    lime: '#54f000',
     navy: '#0a192f',
     darkNavy: '#020c1b',
+    plum: '#c84b6d',
+    lemon: 'fbe864',
   },
 
   srConfig: (delay = 200, viewFactor = 0.25) => ({

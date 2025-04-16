@@ -1,0 +1,52 @@
+{
+  "edges": [
+    {
+      "node": {
+        "frontmatter": {
+          "title": "Full Stack Software Engineer",
+          "company": "Metaphor",
+          "location": "Astana, Kazakhstan",
+          "range": "March 2018 - August 2018, July 2021 - October 2022",
+          "url": "https://metaphor.kz/"
+        },
+        "html": "<ul>\n<li>Built and refactored front-end systems using React and Angular improving load time by 25% and making interfaces more intuitive for non-technical users</li>\n<li>Transferred automation solutions to clients’ personal use by building self-service tools, including creating intuitive UIs that allowed customers to manage and update their processes with minimal assistance</li>\n<li>Built new business processes on Camunda Engine, optimized CMS efficiency by refactoring business processes and execution</li>\n<li>Supported existing business processes by fixing minor issues and optimizing data synchronization</li>\n</ul>"
+      }
+    },
+    {
+      "node": {
+        "frontmatter": {
+          "title": "Front End Software Engineer",
+          "company": "Kazakh National Space Center",
+          "location": "Astana, Kazakhstan",
+          "range": "November 2020 - June 2021",
+          "url": "https://www.gharysh.kz/sayten2022/glavnayaen/"
+        },
+        "html": "<ul>\n<li>Improved map rendering performance by 25% through tile caching and clustering techniques, enhancing load time and enabling smooth interaction with large datasets</li>\n<li>Automated satellite imagery updates via a custom geospatial API integration pipeline, reducing manual effort by up to 30% and streamlining the process for frequent updates</li>\n</ul>"
+      }
+    },
+    {
+      "node": {
+        "frontmatter": {
+          "title": "Full Stack Software Engineer",
+          "company": "BI-Group",
+          "location": "Astana, Kazakhstan",
+          "range": "August 2018 - March 2020",
+          "url": "https://bi.group/"
+        },
+        "html": "<ul>\n<li>Reduced annual surplus material costs by up to 40% by automating procurement processes and improving material tracking and ordering accuracy</li>\n<li>Implemented a real-time quality control module for 200+ projects, improving material inspection and reducing errors</li>\n<li>Collaborated with the accounting team to design a microservices-based architecture to enable real-time data synchronization and enhance material supply chain efficiency</li>\n</ul>"
+      }
+    },
+    {
+      "node": {
+        "frontmatter": {
+          "title": "Project Manager",
+          "company": "iBEC Systems",
+          "location": "Almaty, Kazakhstan",
+          "range": "July 2017 - February 2018",
+          "url": "https://ibecsystems.com"
+        },
+        "html": "<ul>\n<li>Led client meetings to gather requirements and develop comprehensive technical specifications</li>\n<li>Collaborated with cross-functional teams (designers, front-end, and back-end engineers) to estimate project timelines and deliverables</li>\n<li>Oversaw the management of ongoing projects, ensuring product support, addressing issues, and driving feature enhancements</li>\n</ul>"
+      }
+    }
+  ]
+}
